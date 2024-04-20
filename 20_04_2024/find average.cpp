@@ -29,5 +29,3 @@ int main() {
     if (average > 95)
         cout
 			<< "Congratulation! That's a hight score!";
-    return 0;
-}
